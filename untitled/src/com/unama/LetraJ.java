@@ -10,6 +10,6 @@ public class LetraJ {
         System.out.println("Informe um valor: R$");
         real = sc.nextFloat();
         totalemdolar = real*4.15;
-        System.out.println("O valor em dólar será de: U$S" +totalemdolar);
+        System.out.println("O valor em dólar será de: US$" +totalemdolar);
     }
 }
